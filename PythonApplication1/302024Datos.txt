@@ -1,0 +1,12 @@
+Nombre : maria fernanda
+Apellidos :hernande gon
+Edad:18
+Telefono:9614401113
+Estatura:1.65
+
+Nombre : Maria Fernanda
+Apellidos :Hergo
+Edad:19
+Telefono:96144401113
+Estatura:1.60
+
